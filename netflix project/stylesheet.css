@@ -1,0 +1,219 @@
+.btn-btn-outline-login {
+position: relative;
+display: inline;
+min-width:5rem;
+min-height: 3rem;
+border-radius:0%;
+height:1.3rem;
+color: black;
+text-align:center;
+margin: 10px;
+margin-top: 0rem;
+margin-left: 1rem;
+font-size: 0.8rem;
+font-weight: 700;
+}
+
+
+.btn-btn-outline-sign{
+    position: relative;
+    display: inline;
+    min-width:5rem;
+    min-height: 3rem;
+    border-radius:0%;
+    height:1.3rem;
+    color: black;
+    padding: 15px 20px;
+    text-align: left;
+    margin:10px;
+    /* when you want space between two elements side by side use the margin attribute */
+    margin-top: 0rem;
+    margin-right: 0.5rem;
+    font-size: 0.8rem;
+    font-weight: 700;
+    
+}
+
+.navlink {
+    font-weight: 500;
+    font-size: 0.8rem;
+    text-align: left;
+    padding: 1rem 0.5rem;
+    display: inline-block;
+    margin-top: 0rem;
+    margin-right: 0.5rem;
+    margin-left: 0rem;
+
+}
+
+.form-control-me-2{
+    border-style:solid;
+    border-width: 0.1rem;
+    width: 35rem;
+    height:2.7rem ;
+    border-color: black;
+    border-radius: 0.5rem;
+}
+
+
+.landing-page .smiling-woman{
+    height:350px;
+    width:1200px;
+    margin-left: 4rem;
+    margin-top:0;
+}
+.landing-page .carousel-dark-slide{
+    margin-top:-1.5rem;
+    bottom: 0rem ;
+    position:relative;
+    border-style: none;
+    height:100px;
+    width:80%;
+    margin-left: 4rem;
+
+}
+
+.learning {
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    font-weight: 800;
+    font-size:2rem
+}
+
+.learning-hero {
+    text-align: justify;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.learning-hero .learning {
+    display: inline-block;
+    margin-bottom: 0rem;
+    padding-top: 0rem;
+}
+
+
+
+.landing-page-pg {
+    margin-left: 8rem;
+    margin-bottom:0rem;
+    display: flex;
+    flex-direction: column;
+    position:relative;
+    padding:0rem;
+    width: 34rem;
+    top:-14rem;
+    /* to move an element up or in it's opposite direction use a minus sign. this always helps not even z-index */
+    /* glad i put this in a div class as well */
+    background-color: white;
+    width: 25rem;
+    height:10rem;
+    align-items:flex-start;
+    text-align: justify;
+    padding-top: 2rem;
+    padding-left: 0.8rem;
+    border: -0.5rem solid;
+    box-shadow: 8px 10px rgb(188, 184, 190);
+
+
+}
+
+.course-selection{
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    font-weight: 700;
+    font-size: 1.8rem;
+    position: relative;
+    top: -8rem;
+    margin-left: 5rem;
+}
+
+.learning-heross {
+    position:relative;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    margin-left: 4.5rem;
+    top:-7.7rem;
+    font-size:1rem ;
+    letter-spacing:-0.5px;
+}
+
+.button-selectors { 
+    border-style: none;
+    margin:0.1rem;
+    background-color: white;
+    font-weight: 700;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    
+}
+
+.the-buttons{
+    top:-7.9rem;
+    position: relative;
+    margin-left: 4rem;
+/* the div that encloses the buttons */
+}
+
+.Career-header{
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    font-weight: 800;
+    color: black;
+    font-size:1rem;
+    margin-left: 4rem;
+    text-align: justify;
+    top: -20rem;
+}
+
+.carousel-dark-slide .Career-header {
+    top:-3.5rem;
+    margin-left:2rem;
+    position: relative;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-weight: 700;
+    font-size: 1.2rem;
+
+}
+
+.carousel-dark-slide .paragraph-header{
+    top:-2.9rem;
+    position: relative;
+    font-size: 0.9rem;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight:300;
+    justify-content: left;
+    margin-left: 2.1rem;
+
+}
+
+.carousel-dark-slide .button-outline-sign{
+    position: relative;
+    top:-2.4rem;
+    margin-left: 3rem;
+    padding: 0.1rem;
+    width:7.6rem;
+    height: 2.8rem;
+    display: inline;
+    font-size: 0.6rem;
+    font-weight: 700;
+    margin-left: 2.1rem;
+}
+
+/* picture in carousel section */
+.carousel-dark-slide .carousel-inner .carousel-item-active .python-image-1 {
+    width:12rem;
+    height:10rem;
+    margin-left: 4rem;
+    margin-top:0; 
+    position: relative;
+    display: inline-block;
+    padding-top: 1.6rem;
+    top:-5rem;
+    margin: 1.8rem;
+}
+
+
+
+.paragraph-header {
+    position:relative;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    margin-left: 4.5rem;
+    top:0.7rem;
+    font-size:1rem ;
+    letter-spacing:-0.5px;
+}

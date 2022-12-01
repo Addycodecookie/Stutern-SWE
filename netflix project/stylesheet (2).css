@@ -1,6 +1,4 @@
-.body{
 
-}
 .Header .netflix-logo-top .background-photo-1 {
     background-image:500px 474px;
     image-rendering: auto;
@@ -13,7 +11,7 @@
     
 }
 
-.Unlimited .subscription .btn-primary{
+.Unlimited .subscription .btn-primary {
 position: relative;
 display: inline;
 width:7.5rem;
@@ -93,6 +91,7 @@ font-weight: 600;
     top:-35rem;
     font-weight: 500;
 }
+
 .Unlimited .movie-shows-3{
     font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     font-size: 1.3rem;
@@ -112,8 +111,6 @@ font-weight: 600;
     align-items: center;
     margin-left: 15rem;
     top:-50rem;
-
-
 }
 
 
@@ -129,6 +126,7 @@ font-weight: 600;
     padding-bottom: 2rem;
     width: auto;
 }
+
 
 .Ground-one {
 max-height: 100rem;
@@ -147,8 +145,6 @@ margin-top: 0.8rem;
     padding-top: 1rem;
     line-height: 2.5rem;
     padding-bottom:4.5rem;
-
-
 }
 
 .Ground-one .ground-one .image-zero {
@@ -170,7 +166,7 @@ margin-top: 0.8rem;
     margin-bottom: 0.5rem;
 }
 
-.Ground-two .ground-two .La-2{
+.Ground-two .ground-two .La-2 {
     margin-left:39rem;
     font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     font-size: 2.7rem;
@@ -238,4 +234,4 @@ margin-top: 0.8rem;
 
     }
 
-    @media only screen and (max-width: 349px), only screen and (min-width: 350px) and (max-width: 399px), only screen and (min-width: 400px) and (max-width: 549px), only screen and (min-width: 550px) and (max-width: 949px)
+@media only screen and (max-width: 349px), only screen and (min-width: 350px) and (max-width: 399px), only screen and (min-width: 400px) and (max-width: 549px), only screen and (min-width: 550px) and (max-width: 949px)
